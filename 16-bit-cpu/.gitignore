@@ -1,0 +1,15 @@
+# Hardware
+*.hex
+*.bin
+*.out
+
+# Compiler
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
